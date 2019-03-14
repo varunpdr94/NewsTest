@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GrabTest</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="last_update_at">Last updated on</string>
+    <string name="test_case_passed">Test Case passed</string>
+</resources>
